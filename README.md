@@ -24,6 +24,8 @@ My Tester is a Python-based application designed for network scanning and servic
 
 ## Installation
 
+Opens an installation folder you'll find file named Qscan.MSI open it and click next until the appinstalled 
+
 ### Prerequisites
 1. Python 3.8 or higher.
 2. Nmap installed and available in the system PATH.
